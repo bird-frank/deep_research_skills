@@ -55,7 +55,7 @@ The easiest way to install these skills is through ClawHub in OpenClaw:
 
 ```bash
 # Install deep-research (planning skill)
-clawhub install deep-research
+clawhub install deep-research-plan
 
 # Install deep-research-executor (execution skill)
 clawhub install deep-research-executor
