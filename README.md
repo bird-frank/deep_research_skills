@@ -149,3 +149,7 @@ your-project/
 - The `deep-research-executor` skill performs the actual research and report generation
 - Research reports are always generated in English
 - All sources are properly cited with reference numbers
+
+## License
+
+This project is released under the [MIT License](LICENSE).
